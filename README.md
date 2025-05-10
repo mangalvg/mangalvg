@@ -38,7 +38,7 @@ I mainly use **Python** for coding interviews and algorithm practice.
 
 ## 💬 Let's connect
 - 🛠 Feel free to explore my repositories and ongoing experiments
-  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mangalvg/)
 ---
 
 ## ⚠️ Disclaimer
